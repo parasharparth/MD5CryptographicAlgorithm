@@ -6,7 +6,6 @@ import java.security.MessageDigest;
 public class Solution {
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
         sc.close();
